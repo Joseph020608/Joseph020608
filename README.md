@@ -1,6 +1,8 @@
 ## 👋 Hi, I’m Joseph Reina
 
-Data Analyst with hands-on experience delivering end-to-end analytical solutions using SQL and Power BI.
+Data Analyst | Business & Revenue Analytics  
+SQL • Power BI  
+Turning data into business decisions
 
 I focus in transforming complex business data into actionable insights across **customer behavior**, **revenue dynamics**, and **operational performance**.
 
@@ -25,3 +27,7 @@ Currently working in **Payments & Fraud Operations**, while continuously expandi
 
 ### 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/joseph-reina-93504816b
+
+---
+
+📌 Open to data analytics opportunities and collaboration.
