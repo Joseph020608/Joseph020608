@@ -1,16 +1,27 @@
-## Hi there 👋
+## 👋 Hi, I’m Joseph Reina
 
-<!--
-**Joseph020608/Joseph020608** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst with hands-on experience delivering end-to-end analytical solutions using SQL and Power BI.
 
-Here are some ideas to get you started:
+I focus in transforming complex business data into actionable insights across **customer behavior**, **revenue dynamics**, and **operational performance**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working in **Payments & Fraud Operations**, while continuously expanding my analytical skill set and building portfolio projects.
+
+---
+
+### 🔧 Core stack
+- SQL • Power BI • Excel  
+- Data modeling • KPI reporting • Dashboards
+
+---
+
+### 📌 Featured projects
+- **[Customer Retention & Churn Analytics](https://github.com/Joseph020608/customer-retention-churn-analytics)**
+  End-to-end churn analysis using SQL + Power BI. Customer behavior, revenue impact and early warning signals.
+- **[AdventureWorks Business Analysis](https://github.com/Joseph020608/Adventurework_business_analysis)**
+  Business performance dashboard using MySQL + Power BI. Sales trends, customer segmentation and KPIs.
+- **[Olist E-commerce Analysis](https://github.com/Joseph020608/Olist_ecommerce_analysis)**
+  SQL-based commercial and logistics performance analysis (Brazilian e-commerce dataset).
+---
+
+### 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/joseph-reina-93504816b
