@@ -16,11 +16,11 @@ Currently working in **Payments & Fraud Operations**, while continuously expandi
 
 ### 📌 Featured projects
 - **[Customer Retention & Churn Analytics](https://github.com/Joseph020608/customer-retention-churn-analytics)**
-  End-to-end churn analysis using SQL + Power BI. Customer behavior, revenue impact and early warning signals.
+    End-to-end churn analysis using SQL + Power BI. Customer behavior, revenue impact and early warning signals.
 - **[AdventureWorks Business Analysis](https://github.com/Joseph020608/Adventurework_business_analysis)**
-  Business performance dashboard using MySQL + Power BI. Sales trends, customer segmentation and KPIs.
+    Business performance dashboard using MySQL + Power BI. Sales trends, customer segmentation and KPIs.
 - **[Olist E-commerce Analysis](https://github.com/Joseph020608/Olist_ecommerce_analysis)**
-  SQL-based commercial and logistics performance analysis (Brazilian e-commerce dataset).
+    SQL-based commercial and logistics performance analysis (Brazilian e-commerce dataset).
 ---
 
 ### 📫 Contact
