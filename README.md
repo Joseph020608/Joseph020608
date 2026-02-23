@@ -11,7 +11,7 @@ Currently working in **Payments & Fraud Operations**, while continuously expandi
 ---
 
 ### 🔧 Core stack
-- SQL • Power BI • Excel  
+- SQL • Power BI • Excel • Python
 - Data modeling • KPI reporting • Dashboards
 
 ---
