@@ -17,14 +17,15 @@ Currently working in **Payments & Fraud Operations**, while continuously expandi
 ---
 
 ### 📌 Featured projects
+- **[Data Warehouse Implementation](https://github.com/Joseph020608/SQL-datawarehouse-project)**
+    End-to-end data warehouse built using SQL server. Implements ETL pipelines, layered architecture (Bronze/Silver/Gold), dimensional modeling, and analytical SQL reporting.
 - **[Customer Retention & Churn Analytics](https://github.com/Joseph020608/customer-retention-churn-analytics)**
     End-to-end churn analysis using SQL + Power BI. Customer behavior, revenue impact and early warning signals.
 - **[AdventureWorks Business Analysis](https://github.com/Joseph020608/Adventurework_business_analysis)**
     Business performance dashboard using MySQL + Power BI. Sales trends, customer segmentation and KPIs.
 - **[Olist E-commerce Analysis](https://github.com/Joseph020608/Olist_ecommerce_analysis)**
     SQL-based commercial and logistics performance analysis (Brazilian e-commerce dataset).
-- **[Data Warehouse Implementation](https://github.com/Joseph020608/SQL-datawarehouse-project)**
-    End-to-end data warehouse built using SQL server. Implements ETL pipelines, layered architecture (Bronze/Silver/Gold), dimensional modeling, and analytical SQL reporting.
+
 ---
 
 ### 📫 Contact
